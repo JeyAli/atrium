@@ -3,7 +3,6 @@ package ch.tutteli.atrium.specs.integration
 import ch.tutteli.atrium.api.fluent.en_GB.*
 import ch.tutteli.atrium.api.verbs.internal.expect
 import ch.tutteli.atrium.creating.Expect
-import ch.tutteli.atrium.domain.builders.creating.PleaseUseReplacementException
 import ch.tutteli.atrium.specs.*
 import ch.tutteli.atrium.translations.DescriptionAnyAssertion.NOT_TO_BE
 import ch.tutteli.atrium.translations.DescriptionBigDecimalAssertion

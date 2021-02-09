@@ -3,7 +3,6 @@ package ch.tutteli.atrium.logic.utils
 
 import ch.tutteli.atrium.api.fluent.en_GB.*
 import ch.tutteli.atrium.api.verbs.internal.expect
-import ch.tutteli.atrium.domain.builders.creating.PleaseUseReplacementException
 import ch.tutteli.atrium.logic._logic
 import ch.tutteli.atrium.logic.changeSubject
 import org.spekframework.spek2.Spek
